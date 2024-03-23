@@ -7,3 +7,7 @@
 # Link Youtube
 https://www.youtube.com/watch?v=7LaEEEOCbR4&t=3s
 
+# Output
+![hasil](https://github.com/Azhyka/ParsingJSON/assets/115516688/02cc1d85-8008-4907-8710-e2ad8eee1a94)
+
+
